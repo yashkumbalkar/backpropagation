@@ -8,4 +8,4 @@ the model using Mean Squared Error (MSE) loss.
 
 ## **Neural Network Architecture**
 
-[-](https://github.com/yashkumbalkar/backpropagation/blob/master/neural%20network%20architecture.jpg)
+![image](https://github.com/yashkumbalkar/backpropagation/blob/master/neural%20network%20architecture.jpg)
