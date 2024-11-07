@@ -14,10 +14,14 @@ the model using Mean Squared Error (MSE) loss.
 
 ![image](https://github.com/yashkumbalkar/backpropagation/blob/master/gradients.jpg)
 
-## **Requirements**
+## **Tools Used**
 
 - `python`
 - `numpy`
 - `pandas`
 - `Tensorflow`
 - `keras`
+
+## **Conclusion**
+
+We can see that our algorithm has a loss of 1.28 after 10 epochs and algorithm from keras library has a loss of 1.06 after 75 epochs, So our results are similar.
