@@ -9,3 +9,15 @@ the model using Mean Squared Error (MSE) loss.
 ## **Neural Network Architecture**
 
 ![image](https://github.com/yashkumbalkar/backpropagation/blob/master/neural%20network%20architecture.jpg)
+
+## **Gradients**
+
+![image](https://github.com/yashkumbalkar/backpropagation/blob/master/gradients.jpg)
+
+## **Requirements**
+
+- `python`
+- `numpy`
+- `pandas`
+- `Tensorflow`
+- `keras`
